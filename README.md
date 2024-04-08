@@ -1,2 +1,2 @@
-# Cgi.ruby
-Cgi script on ruby sample
+# python.command.line
+easy command line on easy python
