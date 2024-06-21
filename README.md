@@ -1,2 +1,4 @@
-# python.command.line
-easy command line on easy python
+# cos.sin.in.every.here
+
+
+cos sin every here
