@@ -2,3 +2,5 @@
 
 
 cos sin every here
+
+take cos and sin every here every system 
